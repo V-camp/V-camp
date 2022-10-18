@@ -1,6 +1,6 @@
 ## Hi, I'm V-camp
 
-🤓I'm currently learning Typescript
+ I'm currently learning Typescript, Node, Mongo and React 
 
 <div>
   <a href="https://github.com/V-camp">
